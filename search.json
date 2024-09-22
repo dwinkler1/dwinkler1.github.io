@@ -74,6 +74,6 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "Software\n\nshrinkDSM: Efficient Bayesian Inference for Dynamic Survival Models with Shrinkage\nRClickhouse: Database interface for the R programming language\nChartmetric.jl: Scraping library for the Chartmetric API\nJSONLines.jl: Memory efficient, parallel JSONLines reader for larger-than-memory files"
+    "text": "Software\n shrinkDSM: Efficient Bayesian Inference for Dynamic Survival Models with Shrinkage   RClickhouse: Database interface for ClickHouse   Chartmetric.jl: Scraping library for the Chartmetric API   JSONLines.jl: Memory efficient, parallel JSONLines reader for larger-than-memory files"
   }
 ]

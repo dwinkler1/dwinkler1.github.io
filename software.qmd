@@ -3,8 +3,7 @@ toc: false
 ---
 
 # Software
-
-- [shrinkDSM](https://cran.r-project.org/package=shrinkDSM): Efficient Bayesian Inference for Dynamic Survival Models with Shrinkage
-- [RClickhouse](https://cran.r-project.org/package=RClickhouse): Database interface for the R programming language
-- [Chartmetric.jl](https://github.com/dwinkler1/Chartmetric.jl): Scraping library for the [Chartmetric API](https://api.chartmetric.com/apidoc/)
-- [JSONLines.jl](https://github.com/dwinkler1/JSONLines.jl): Memory efficient, parallel JSONLines reader for larger-than-memory files
+![](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) [shrinkDSM](https://cran.r-project.org/package=shrinkDSM): Efficient Bayesian Inference for Dynamic Survival Models with Shrinkage <br>
+![](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) [RClickhouse](https://cran.r-project.org/package=RClickhouse): Database interface for  [ClickHouse](https://clickhouse.com) <br>
+ ![Julia](https://img.shields.io/badge/-Julia-9558B2.svg?style=flat&logo=julia&logoColor=white) [Chartmetric.jl](https://github.com/dwinkler1/Chartmetric.jl): Scraping library for the [Chartmetric API](https://api.chartmetric.com/apidoc/) <br>
+![Julia](https://img.shields.io/badge/-Julia-9558B2.svg?style=flat&logo=julia&logoColor=white) [JSONLines.jl](https://github.com/dwinkler1/JSONLines.jl): Memory efficient, parallel JSONLines reader for larger-than-memory files
