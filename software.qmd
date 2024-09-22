@@ -1,6 +1,7 @@
 ---
 toc: false
 ---
+
 # Software
 
 - [shrinkDSM](https://cran.r-project.org/package=shrinkDSM): Efficient Bayesian Inference for Dynamic Survival Models with Shrinkage
