@@ -12,6 +12,8 @@ toc: false
 ## Undergraduate level courses
 
 - [Data-based Storytelling](https://dwinkler.org/dbst/)
+- [Marketing Research](https://vvz.wu.ac.at/cgi-bin/vvz.pl?S=21S;T=;LV=3;L2=S;C=L;L3=S;I=4879;L=;U=H;LANG=EN)
 
 ## Electives
+
 - [Data Literacy](https://dwinkler.org/dl/)
