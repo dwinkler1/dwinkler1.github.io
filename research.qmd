@@ -20,18 +20,13 @@ Schoppmann, 2018
 ## Working Papers
 
 [**Separating the Artist from the Art: Social Media Boycotts, Platform Sanctions, and Music Consumption**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929261) <br>
-(*under review at Journal of
-Marketing Research*)\
 with Nils Wlömert and Jūra Liaukonytė
 
 [**The Impact of Social Media on Music Demand: Evidence from a Quasi-Natural Experiment**](https://arxiv.org/abs/2405.14999) <br>
-(*reject and resubmit at Frontiers in
-Marketing Science*)\
 with Christian Hotz-Behofsits, Nils Wlömert, Dominik Papies, and Jūra
 Liaukonytė
 
 [**Negative Spillover Effects of Opt-out Defaults: Evidence from Organ Donation Policies**](https://osf.io/preprints/psyarxiv/c36v8) <br> 
-(*under review at PNAS Nexus*)\
 with Pascal Güntürkün, Sinika Studte, Michel Clement, Eva-Maria Merz,
 Jonathan Tan,<br>
 Elisabeth Huis in 't Veld, and Eamonn Ferguson
@@ -41,8 +36,6 @@ with Peter Knaus
 
 **Elevated fibrinogen-albumin ratio is an adverse prognostic factor for
 patients with primarily resected gastroesophageal adenocarcinoma**
-(*Revise and resubmit at Journal of Cancer Research and Clinical
-Oncology*)\
 with Gerd Jomrich, Winny Yan, Dagmar Kollmann, Ivan Kristo, Hannah Puhr,
 Aysegül Ihan-Mutlu, Marlene Hollenstein, Reza Asari, and Sebastian F.
 Schoppmann
