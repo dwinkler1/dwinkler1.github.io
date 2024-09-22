@@ -17,3 +17,8 @@ toc: false
 ## Electives
 
 - [Data Literacy](https://dwinkler.org/dl/)
+
+## Academic Workshops
+
+- [Difference-in-Differences](https://wu-rds.github.io/did/)
+- [Web & API Scraping](https://colab.research.google.com/drive/1QpQ8SuZfraw58YAQM5SeJO4fU0buwpc2)
