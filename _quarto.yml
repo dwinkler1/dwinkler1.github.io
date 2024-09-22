@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  favicon: assets/head.jpeg
+  title: "Daniel Winkler"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: software.qmd
+        text: Software
+    right:
+      - href: https://www.linkedin.com/in/daniel-winkler-007a328a/
+        icon: linkedin
+      - href: https://github.com/dwinkler1
+        icon: github
+      - href: https://orcid.org/0000-0002-4644-7647
+        text: "{{< ai orcid >}}"
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+    linkcolor: black

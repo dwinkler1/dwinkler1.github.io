@@ -1,0 +1,6 @@
+# Software
+
+- [shrinkDSM](https://cran.r-project.org/package=shrinkDSM): Efficient Bayesian Inference for Dynamic Survival Models with Shrinkage
+- [RClickhouse](https://cran.r-project.org/package=RClickhouse): Database interface for the R programming language
+- [Chartmetric.jl](https://github.com/dwinkler1/Chartmetric.jl): Scraping library for the [Chartmetric API](https://api.chartmetric.com/apidoc/)
+- [JSONLines.jl](https://github.com/dwinkler1/JSONLines.jl): Memory efficient, parallel JSONLines reader for larger-than-memory files
