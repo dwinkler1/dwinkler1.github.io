@@ -22,6 +22,8 @@ website:
         icon: github
       - href: https://orcid.org/0000-0002-4644-7647
         text: "{{< ai orcid >}}"
+      - href: files/CV_Winkler.pdf
+        text: CV
 
 format:
   html:
