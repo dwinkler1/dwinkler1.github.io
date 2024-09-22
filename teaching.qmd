@@ -4,6 +4,14 @@ toc: false
 
 # Teaching
 
+## Masters level courses 
+
 - [Marketing Analytics](https://wu-rds.github.io/MA2024/)
 - [Data-based Storytelling](https://dwinkler.org/storytelling/)
+
+## Undergraduate level courses
+
+- [Data-based Storytelling](https://dwinkler.org/dbst/)
+
+## Electives
 - [Data Literacy](https://dwinkler.org/dl/)
