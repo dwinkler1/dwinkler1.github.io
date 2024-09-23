@@ -24,10 +24,10 @@ Welthandelsplatz 1 <br>
 
 ::: {.column width="60%"}
 
-I am a Teaching and Research Associate at the Institute for Retailing & Data Science and a PhD Student in Economics and Social Sciences at the Vienna University of Economics and Business.
+I am a PhD Candidate in Economics at the Vienna University of Economics and Business and a research associate in the Marketing Department at the Institute for Retailing & Data Science.
 <br>
-My research interests encompass Quantitative Marketing, Platform Economics, Human Brand Scandals, Pro-Social Behavior, and Emerging Technologies. My research delves into the impact of various stakeholders on the music industry, including streaming and social media platforms, activist groups, and innovations in content delivery and promotion. Furthermore, I am actively exploring recent advancements in applied econometrics, such as novel difference-in-differences estimators and integrating machine learning with traditional econometric models.
-
+My research focuses on Quantitative Marketing, Platform and Social Media Analytics, and the Economics of the Music Industry. I explore how key stakeholders—such as streaming platforms, social media, activist groups, and technological innovations in content delivery and promotion—affect the dynamics of the music industry.
+Methodologically, I am interested in advancing applied econometrics, particularly in developing new difference-in-differences estimators and integrating machine learning with traditional econometric techniques.
 
 * [Curriculum Vitae](./files/CV_Winkler.pdf)
 
