@@ -37,7 +37,7 @@ Marketing Science Conference, EMAC Doctoral Colloquium, EMAC Annual
 Conference, and Economics of the Music Industry)\
 with Nils Wlömert, Lev Muchnik, and Jacob Goldenberg
 
-[**Political Polarization Indices for Top Music Artists**](https://liaukonyte.dyson.cornell.edu/music/)
+[**Political Polarization Indices for Top Music Artists**](https://liaukonyte.dyson.cornell.edu/music/)\
 with Jūra Liaukonytė and Nils Wlömert
 
 [**B-DiD - A Dynamic Bayesian Approach to Difference-in-Differences**](https://dwinkler.org/bdids/#/title-slide)\
