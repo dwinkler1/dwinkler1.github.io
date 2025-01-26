@@ -7,13 +7,6 @@
     "text": "Software\n shrinkDSM: Efficient Bayesian Inference for Dynamic Survival Models with Shrinkage   RClickhouse: Database interface for ClickHouse   Chartmetric.jl: Scraping library for the Chartmetric API   JSONLines.jl: Memory efficient, parallel JSONLines reader for larger-than-memory files"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello and Welcome!",
-    "section": "",
-    "text": "Hello and Welcome!\n\n\n\nDepartment of Marketing  Vienna University of Economics and Business  Building D2, Entrance A  Welthandelsplatz 1  1020, Vienna\ndw@dwinkler.org\n\n\n\nI am a PhD Candidate in Economics at the Vienna University of Economics and Business and a research associate in the Marketing Department at the Institute for Retailing & Data Science. \nMy research focuses on Quantitative Marketing, Platform and Social Media Analytics, and the Economics of the Music Industry. I explore how key stakeholders—such as streaming platforms, social media, activist groups, and technological innovations in content delivery and promotion—affect the dynamics of the music industry. \nMethodologically, I am interested in advancing applied econometrics, particularly in developing new difference-in-differences estimators and integrating machine learning with traditional econometric techniques.\n\nCurriculum Vitae"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -49,6 +42,20 @@
     "text": "Difference-in-Differences\nWeb & API Scraping"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello and Welcome!",
+    "section": "",
+    "text": "Hello and Welcome!\n\n\n\nDepartment of Marketing  Vienna University of Economics and Business  Building D2, Entrance A  Welthandelsplatz 1  1020, Vienna\ndw@dwinkler.org\n\n\nI am a PhD Candidate in Economics at the Vienna University of Economics and Business and a research associate in the Marketing Department at the Institute for Retailing & Data Science. \nMy research focuses on Quantitative Marketing, Platform and Social Media Analytics, and the Economics of the Music Industry. I explore how key stakeholders—such as streaming platforms, social media, activist groups, and technological innovations in content delivery and promotion—affect the dynamics of the music industry. \nMethodologically, I am interested in advancing applied econometrics, particularly in developing new difference-in-differences estimators and integrating machine learning with traditional econometric techniques.\n\nCurriculum Vitae"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -75,12 +82,5 @@
     "title": "Research",
     "section": "",
     "text": "Systemic Immune-Inflammation Index (SII) Predicts Poor Survival in Pancreatic Cancer Patients Undergoing Resection (Journal of Gastrointestinal Surgery)\nwith Gerd Jomrich, Elisabeth S. Gruber, Marlene Hollenstein, Michael Gnantand, Klaus Sahora, and Martin Schindl, 2020\nExpression of FGF8, FGF18, and FGFR4 in Gastroesophageal Adenocarcinomas (Cells)\nwith Gerd Jomrich, Xenia Hudec, Felix Harpain, Gerald Timelthaler, Thomas Mohr, Brigitte Marian, and Sebastian F. Schoppmann, 2019\nMK2 and ETV1 Are Prgonistic Factors in Esophageal Adenocarcinomas (Journal of Cancer)\nwith Gerd Jomrich, Florian Maroske, Jasmin Stieger, Matthias Preusser, Aysegül Ilhan-Mutlu, Ivan Kristo, Matthias Paireder, and Sebastian F. Schoppmann, 2018"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]

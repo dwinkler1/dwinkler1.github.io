@@ -5,8 +5,8 @@ toc: false
 
 # Hello and Welcome! 
 
-::: columns
-::: {.column width="28%"}
+::: {.flex-container}
+::: {.flex-item}
 
 ![](assets/head.jpeg)
 
@@ -17,12 +17,10 @@ Welthandelsplatz 1 <br>
 1020, Vienna
 
 [dw@dwinkler.org](mailto:dw@dwinkler.org)
+
 :::
 
-::: {.column width="5%"}
-:::
-
-::: {.column width="60%"}
+::: {.flex-item}
 
 I am a PhD Candidate in Economics at the Vienna University of Economics and Business and a research associate in the Marketing Department at the Institute for Retailing & Data Science.
 <br>
