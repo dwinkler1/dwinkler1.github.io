@@ -1,25 +1,26 @@
+# filepath: flake.nix
 {
   description = "Quarto website build";
-
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.11";
-    flake-utils.url = "github:numtide/flake-utils";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
   };
 
-  outputs = { self, nixpkgs, flake-utils }:
-    flake-utils.lib.eachDefaultSystem (system:
-      let
+  outputs = {
+    self,
+    nixpkgs,
+  }: let
+    systems = ["x86_64-linux" "aarch64-linux" "aarch64-darwin"];
+    forAllSystems = nixpkgs.lib.genAttrs systems;
+    reqPkgs = pkgs: with pkgs; [quarto];
+  in {
+    packages = forAllSystems (
+      system: let
         pkgs = nixpkgs.legacyPackages.${system};
-        reqs = with pkgs; [
-          quarto
-        ];
-      in
-      {
-        packages.default = pkgs.stdenv.mkDerivation {
-          name = "personal website";
+        website = pkgs.stdenv.mkDerivation {
+          name = "personal-website";
           src = ./.;
 
-          buildInputs = reqs;
+          buildInputs = reqPkgs pkgs;
 
           buildPhase = ''
             mkdir home
@@ -32,9 +33,19 @@
             cp -r build/* $out/
           '';
         };
+      in {
+        default = website;
+      }
+    );
 
-        devShells.default = pkgs.mkShell {
-          buildInputs = reqs;
+    devShells = forAllSystems (
+      system: let
+        pkgs = nixpkgs.legacyPackages.${system};
+      in {
+        default = pkgs.mkShell {
+          buildInputs = reqPkgs pkgs;
         };
-      });
+      }
+    );
+  };
 }

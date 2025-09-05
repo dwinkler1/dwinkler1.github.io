@@ -22,7 +22,7 @@ NSW, 2033
 
 ::: {.flex-item}
 
-I am a Postdoctoral fellow at the University of New South Wales School of Marketing. I got my PhD in Economics at the Vienna University of Economics and Business where I worked at the Institute for Retailing & Data Science.
+I am a Postdoctoral fellow at the University of New South Wales School of Marketing. Previously, I got my PhD in Economics at the Vienna University of Economics and Business where I worked at the Institute for Retailing & Data Science.
 <br>
 
 My research focuses on Quantitative Marketing, Platform and Social Media Analytics, and the Economics of the Music Industry. I explore how key stakeholders—such as streaming platforms, social media, activist groups, and technological innovations in content delivery and promotion—affect the dynamics of the music industry.

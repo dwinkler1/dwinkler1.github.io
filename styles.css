@@ -1,41 +1,42 @@
 /* css styles */
 .navbar-logo {
-  max-height: 20px; /* Adjust the height as needed */
+  max-height: 20px;
 }
 
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between; /* Add space between columns */
-    margin: -10px; /* Adjust for padding */
+    justify-content: space-between;
+    margin: -10px;
 }
 
 .flex-item {
-    flex: 1 1 30%; /* Grow, shrink, and set a base width of 45% */
-    padding: 10px; /* Padding around items */
-    box-sizing: border-box; /* Include padding in width calculations */
+    flex: 1 1 30%;
+    padding: 10px;
+    box-sizing: border-box;
 }
 
 .flex-item:last-child {
-    flex: 1 1 60%; /* Right column: larger, 60% width */
+    flex: 1 1 60%;
 }
 
 @media (max-width: 768px) {
     .flex-container {
-        flex-direction: column; /* Stack items vertically */
+        flex-direction: column;
     }
 
     .flex-item:first-child {
-        order: 1; /* Move the first column below the second */
+        order: 1;
     }
 
     .flex-item:last-child {
-        order: 2; /* Keep the second column on top */
+        order: 2;
     }
 }
 
 @media (max-width: 600px) {
     .flex-item {
-        flex: 1 1 100%; /* Full width on very small screens */
+        flex: 1 1 100%;
     }
 }
+
