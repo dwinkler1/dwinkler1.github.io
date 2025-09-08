@@ -1,4 +1,3 @@
-# filepath: flake.nix
 {
   description = "Quarto website build";
   inputs = {
@@ -10,12 +9,16 @@
     nixpkgs,
   }: let
     systems = ["x86_64-linux" "aarch64-linux" "aarch64-darwin"];
-    forAllSystems = nixpkgs.lib.genAttrs systems;
-    reqPkgs = pkgs: with pkgs; [quarto];
+    forAllSystems = f:
+      builtins.listToAttrs (map (system: {
+          name = system;
+          value = f (builtins.getAttr system nixpkgs.legacyPackages);
+        })
+        systems);
+    reqPkgs = pkgs: [pkgs.quarto];
   in {
     packages = forAllSystems (
-      system: let
-        pkgs = nixpkgs.legacyPackages.${system};
+      pkgs: let
         website = pkgs.stdenv.mkDerivation {
           name = "personal-website";
           src = ./.;
@@ -39,9 +42,7 @@
     );
 
     devShells = forAllSystems (
-      system: let
-        pkgs = nixpkgs.legacyPackages.${system};
-      in {
+      pkgs: {
         default = pkgs.mkShell {
           buildInputs = reqPkgs pkgs;
         };
