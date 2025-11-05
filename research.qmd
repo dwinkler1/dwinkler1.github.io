@@ -46,7 +46,7 @@ with Peter Knaus and Pascal Güntürkün
 
 ## Multidisciplinary
 
-[**Negative Spillover Effects of Opt-out Defaults: Evidence from Organ Donation Policies**](https://doi.org/10.1093/pnasnexus/pgaf311) (PNAS Nexus) <br> 
+[**Negative Spillover Effects of Opt-out Defaults: Evidence from Organ Donation Policies**](https://doi.org/10.1093/pnasnexus/pgaf311) (*PNAS Nexus*) <br> 
 with Pascal Güntürkün, Sinika Studte, Michel Clement, Eva-Maria Merz,
 Jonathan Tan,<br>
 Elisabeth Huis in 't Veld, and Eamonn Ferguson, 2025
@@ -59,12 +59,12 @@ Gastrointestinal Surgery*)\
 with Gerd Jomrich, Elisabeth S. Gruber, Marlene Hollenstein, Michael
 Gnantand, Klaus Sahora, and Martin Schindl, 2020
 
-[**Expression of FGF8, FGF18, and FGFR4 in Gastroesophageal Adenocarcinomas**](https://www.mdpi.com/2073-4409/8/9/1092) ([*Cells*]{.underline})\
+[**Expression of FGF8, FGF18, and FGFR4 in Gastroesophageal Adenocarcinomas**](https://www.mdpi.com/2073-4409/8/9/1092) (*Cells*)\
 with Gerd Jomrich, Xenia Hudec, Felix Harpain, Gerald Timelthaler,
 Thomas Mohr, Brigitte Marian, and Sebastian F. Schoppmann, 2019
 
 [**MK2 and ETV1 Are Prgonistic Factors in Esophageal Adenocarcinomas**](https://www.jcancer.org/v09p0460.htm)
-([*Journal of Cancer*]{.underline})\
+(*Journal of Cancer*)\
 with Gerd Jomrich, Florian Maroske, Jasmin Stieger, Matthias Preusser,
 Aysegül Ilhan-Mutlu, Ivan Kristo, Matthias Paireder, and Sebastian F.
 Schoppmann, 2018

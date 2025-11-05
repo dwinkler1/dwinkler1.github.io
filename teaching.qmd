@@ -20,5 +20,7 @@ toc: false
 
 ## Academic Workshops
 
+- [Julia for Rtists (Workshops for Ukraine)](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.fil5ijdfc6wg)
+  - [Materials can be found here](https://github.com/dwinkler1/julia_dl). Please consider donating to [Leleka](https://bit.ly/3PFxtNA) or [Come Back Alive](https://bit.ly/4aD5LMC) or the [NBU](https://bit.ly/3wvwMA6)
 - [Difference-in-Differences](https://wu-rds.github.io/did/)
 - [Web & API Scraping](https://colab.research.google.com/drive/1QpQ8SuZfraw58YAQM5SeJO4fU0buwpc2)
