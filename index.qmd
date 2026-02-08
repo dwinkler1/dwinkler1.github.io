@@ -17,6 +17,7 @@ High Street, Kensington <br>
 NSW, 2033
 
 [dw@dwinkler.org](mailto:dw@dwinkler.org)
+<a rel="me" href="https://fosstodon.org/@dwinkl">Mastodon</a>
 
 :::
 
