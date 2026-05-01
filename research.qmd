@@ -1,25 +1,14 @@
 # Research
 
-
 ## Working Papers
 
 **The Effects of Business Leaders' Written Language on Public Reactions in Live Online Forums** <br>
 with Valentyna Melnyk, Valeria Noguti, and Harald J. van Heerde
 
-[**Separating the Artist from the Art: Social Media Boycotts, Platform Sanctions, and Music Consumption**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929261) <br>
-with Nils Wlömert and Jūra Liaukonytė
 
 [**The Impact of Social Media on Music Demand: Evidence from a Quasi-Natural Experiment**](https://arxiv.org/abs/2405.14999) <br>
 with Christian Hotz-Behofsits, Nils Wlömert, Dominik Papies, and Jūra
 Liaukonytė
-
-[**Negative Spillover Effects of Opt-out Defaults: Evidence from Organ Donation Policies**](https://osf.io/preprints/psyarxiv/c36v8) <br> 
-with Pascal Güntürkün, Sinika Studte, Michel Clement, Eva-Maria Merz,
-Jonathan Tan,<br>
-Elisabeth Huis in 't Veld, and Eamonn Ferguson
-
-[**A Bayesian Survival Model for Time Varying Coefficients and Unobserved Heterogeneity**](https://arxiv.org/abs/2206.11320)\
-with Peter Knaus
 
 ## Work in Progress
 
@@ -43,6 +32,17 @@ with Jūra Liaukonytė and Nils Wlömert
 [**B-DiD - A Dynamic Bayesian Approach to Difference-in-Differences**](https://dwinkler.org/bdids/#/title-slide)\
 (presented at Marketing Science Conference)\
 with Peter Knaus and Pascal Güntürkün
+
+## Marketing
+
+[**Separating the Artist from the Art: Social Media Boycotts, Platform Sanctions, and Music Consumption**](https://doi.org/10.1177/00222437261445841) (*Journal of Marketing Research*) <br>
+with Nils Wlömert and Jūra Liaukonytė, 2026
+[Featured in multiple news outlets](https://www.altmetric.com/details/195429973/news)
+
+## Statistics
+
+[**Flexible yet Sparse Bayesian Survival Models With Time-Varying Coefficients and Unobserved Heterogeneity**](https://doi.org/10.1002/sim.70458) (*Statistics in Medicine*) <br>
+with Peter Knaus, Sebastian F. Schoppmann, and Gerd Jomrich, 2026
 
 ## Multidisciplinary
 
