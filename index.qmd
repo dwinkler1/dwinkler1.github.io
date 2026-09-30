@@ -8,13 +8,19 @@ toc: false
 ::: {.flex-container}
 ::: {.flex-item}
 
-![](assets/head.jpeg)
+![](assets/head.jpg)
+
 
 **School of Marketing** <br>
 *University of New South Wales* <br>
 Quadrangle Building (E15) <br>
 High Street, Kensington <br>
 NSW, 2033
+
+**Institute for Retailing & Data Science** <br>
+*Vienna University of Economics and Business* <br>
+Welthandelsplatz 1 <br>
+1020, Vienna <br>
 
 [dw@dwinkler.org](mailto:dw@dwinkler.org)
 <a rel="me" href="https://fosstodon.org/@dwinkl">Mastodon</a>
@@ -23,7 +29,7 @@ NSW, 2033
 
 ::: {.flex-item}
 
-I am a Postdoctoral fellow at the University of New South Wales School of Marketing. Previously, I got my PhD in Economics at the Vienna University of Economics and Business where I worked at the Institute for Retailing & Data Science.
+I am a Postdoctoral fellow at the University of New South Wales School of Marketing and research fellow at the Vienna University of Economics and Business. Previously, I got my PhD in Economics at the Vienna University of Economics and Business at the Institute for Retailing & Data Science.
 <br>
 
 My research focuses on Quantitative Marketing, Platform and Social Media Analytics, and the Economics of the Music Industry. I explore how key stakeholders—such as streaming platforms, social media, activist groups, and technological innovations in content delivery and promotion—affect the dynamics of the music industry.
